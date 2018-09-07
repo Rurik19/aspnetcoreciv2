@@ -21,4 +21,8 @@ namespace web
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>();
     }
+    public class IdProvider 
+    {
+        public Guid NewId() => Guid.NewGuid();
+    }
 }
