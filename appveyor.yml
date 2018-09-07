@@ -30,5 +30,4 @@ test_script:
   - cmd: codecov -f "./test/coverage.xml" -t "a6d3bca4-2f90-4fc3-aa2c-04dd9abf1105"
 on_finish :
   # any cleanup in here
-  - bash <(curl -s https://codecov.io/bash)
 deploy: off
