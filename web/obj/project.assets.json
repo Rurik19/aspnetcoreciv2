@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Work\\.net\\AspCoreCiV2\\web\\web.csproj",
+      "projectUniqueName": "C:\\Work\\.net\\aspnetcoreciv2\\web\\web.csproj",
       "projectName": "web",
-      "projectPath": "C:\\Work\\.net\\AspCoreCiV2\\web\\web.csproj",
+      "projectPath": "C:\\Work\\.net\\aspnetcoreciv2\\web\\web.csproj",
       "packagesPath": "C:\\Users\\yevdokimov\\.nuget\\packages\\",
-      "outputPath": "C:\\Work\\.net\\AspCoreCiV2\\web\\obj\\",
+      "outputPath": "C:\\Work\\.net\\aspnetcoreciv2\\web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
