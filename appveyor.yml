@@ -8,7 +8,6 @@ init:
   - cmd: git config --global core.autocrlf true
 install:
   # Install repo specific stuff here
-  - cmd: nuget restore
   - cmd: choco install codecov
 before_build:
   # Display .NET Core version
